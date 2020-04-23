@@ -1,4 +1,4 @@
-definitions:
+.definitions:
     appdef: &appdef
         name: app
         type: 'java:8'
