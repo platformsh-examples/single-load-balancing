@@ -1,6 +1,3 @@
-.definitions:
-    appdef: &appdef
-
 - &appdef
   name: app
       type: 'java:8'
